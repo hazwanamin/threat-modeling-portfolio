@@ -1,4 +1,4 @@
-# Login with MFA — element inventory
+# Login with MFA: element inventory
 
 ## External entities
 - User (browser/mobile app)
