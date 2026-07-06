@@ -42,7 +42,7 @@
 
 \## Trust boundaries
 
-\- Client <-> internal network (User is untrusted)
+\- Single trust boundary drawn around internal infrastructure (Payment API, Payment DB, CyberArk vault)
 
-\- Internal network <-> Payment gateway (3rd party is untrusted/external)
+\- Both User and Payment gateway treated as external/untrusted, sitting outside this boundary
 
