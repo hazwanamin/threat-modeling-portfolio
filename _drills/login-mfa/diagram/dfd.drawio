@@ -109,6 +109,12 @@
         <mxCell id="reQNOxloOHxBAgSdmP5h-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4F4F4F;" value="User&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;App Access&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="70" x="328" y="10" as="geometry" />
         </mxCell>
+        <mxCell id="reQNOxloOHxBAgSdmP5h-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ng9540EB6HkM8nL6ygbH-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="40" as="sourcePoint" />
+            <mxPoint x="460" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
